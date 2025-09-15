@@ -38,5 +38,17 @@
 
 ---
 
+### 🛠️ Tools
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979C?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-%2300A9E0?style=for-the-badge&logo=autodesk&logoColor=white)
+![Wokwi](https://img.shields.io/badge/Wokwi-%234527A0?style=for-the-badge&logo=wokwi&logoColor=white)
+
+</div>
+
 
 
