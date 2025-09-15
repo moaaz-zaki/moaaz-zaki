@@ -51,5 +51,17 @@
 
 </div>
 
+---
+
+### ☁️ Cloud & IoT Platforms
+<div align="center">
+
+![Blynk](https://img.shields.io/badge/Blynk-%2300C94C?style=for-the-badge&logo=blynk&logoColor=white)
+![ThingsBoard](https://img.shields.io/badge/ThingsBoard-%23263238?style=for-the-badge&logo=thingsboard&logoColor=white)
+
+</div>
+
+---
+
 
 
