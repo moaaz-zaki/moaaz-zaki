@@ -63,9 +63,6 @@
 
 ---
 
-> "Consistency is the key."
-> ![](https://komarev.com/ghpvc/?username=moaaz-zaki&color=red)
-
 
 
 
