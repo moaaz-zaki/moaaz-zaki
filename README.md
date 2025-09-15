@@ -28,4 +28,15 @@
 
 --- 
 
+### 🎮 Controllers
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-%2300979C?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP](https://img.shields.io/badge/ESP-%23001C8C?style=for-the-badge&logo=espressif&logoColor=white) 
+![ESP8266](https://img.shields.io/badge/ESP8266-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+</div>
+
+---
+
+
 
